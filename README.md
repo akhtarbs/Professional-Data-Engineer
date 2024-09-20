@@ -1,7 +1,7 @@
 # Professional-Data-Engineer
 As a Professional Data Engineer, my GitHub repository showcases a diverse range of projects that highlight my expertise in data engineering, cloud infrastructure, and machine learning integration. 
 
-To become a professional data engineer, you'll need to acquire a range of technical skills, practical experience, and an understanding of core concepts in data engineering. Below is a structured path you can follow to learn and become proficient in this field:
+To become a professional data engineer, need to acquire a range of technical skills, practical experience, and an understanding of core concepts in data engineering. Below is a structured path that can follow to learn and become proficient in this field:
 1. Understand the Role of a Data Engineer
 
     Data engineers are responsible for designing, building, and maintaining the architecture (such as databases, large-scale processing systems, and pipelines) that allows for data collection, storage, and analysis.
